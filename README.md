@@ -76,12 +76,6 @@ I have a strong background in **requirement analysis**, **code reviews**, and **
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kamrulbari14&theme=dracula&no-frame=true&row=1&column=4" />
-</p>
-
----
-
 ### Visitor Count 🚀
 
 <p align="center">
